@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "artisans": "Artisans",
+    "cart": "Cart",
+    "login": "Login",
+    "dashboard": "Dashboard"
+  },
+  "home": {
+    "title": "Social Impact Craft Marketplace",
+    "subtitle": "Connecting Mexican artisans with the world",
+    "featuredProducts": "Featured Products",
+    "viewAll": "View All"
+  },
+  "product": {
+    "price": "Price",
+    "artisan": "Artisan",
+    "community": "Community",
+    "materials": "Materials",
+    "dimensions": "Dimensions",
+    "stock": "Available",
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock",
+    "description": "Description"
+  },
+  "cart": {
+    "title": "My Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "item": "Item",
+    "quantity": "Quantity",
+    "price": "Price",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove"
+  },
+  "artisan": {
+    "dashboard": "Artisan Dashboard",
+    "myProducts": "My Products",
+    "addProduct": "Add Product",
+    "orders": "Orders",
+    "profile": "Profile"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter"
+  },
+  "accessibility": {
+    "increaseFontSize": "Increase font size",
+    "highContrast": "High contrast",
+    "language": "Language"
+  }
+}

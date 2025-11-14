@@ -1,0 +1,62 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "products": "Productos",
+    "artisans": "Artesanos",
+    "cart": "Carrito",
+    "login": "Iniciar Sesión",
+    "dashboard": "Panel"
+  },
+  "home": {
+    "title": "Marketplace de Artesanías con Impacto Social",
+    "subtitle": "Conectando artesanos mexicanos con el mundo",
+    "featuredProducts": "Productos Destacados",
+    "viewAll": "Ver Todos"
+  },
+  "product": {
+    "price": "Precio",
+    "artisan": "Artesano",
+    "community": "Comunidad",
+    "materials": "Materiales",
+    "dimensions": "Dimensiones",
+    "stock": "Disponibles",
+    "addToCart": "Agregar al Carrito",
+    "outOfStock": "Agotado",
+    "description": "Descripción"
+  },
+  "cart": {
+    "title": "Mi Carrito",
+    "empty": "Tu carrito está vacío",
+    "continueShopping": "Continuar Comprando",
+    "item": "Artículo",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "subtotal": "Subtotal",
+    "total": "Total",
+    "checkout": "Proceder al Pago",
+    "remove": "Eliminar"
+  },
+  "artisan": {
+    "dashboard": "Panel del Artesano",
+    "myProducts": "Mis Productos",
+    "addProduct": "Agregar Producto",
+    "orders": "Pedidos",
+    "profile": "Perfil"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "search": "Buscar",
+    "filter": "Filtrar"
+  },
+  "accessibility": {
+    "increaseFontSize": "Aumentar tamaño de fuente",
+    "highContrast": "Alto contraste",
+    "language": "Idioma"
+  }
+}
